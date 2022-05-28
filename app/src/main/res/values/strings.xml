@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PhonePeNitin</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="release_date_label">Release Date</string>
+    <string name="rating_label">Rating</string>
+    <string name="popularity_label">Popularity</string>
+    <string name="overview_label">Overview</string>
+    <string name="movie_image_cd">movie image</string>
+    <string name="rating_icon_cd">rating icon</string>
+    <string name="popularity_icon_cd">popularity icon</string>
+    <string name="approach">/* * Not able to complete it within given time * but this is my approach: * 1. i will have movie id by nav args * 2. with that id i will get movie details * 3. using data binding i will bind UI with data*/</string>
+</resources>
